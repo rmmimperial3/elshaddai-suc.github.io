@@ -1,0 +1,29 @@
+body {
+	font-family: helvetica;
+	background-image: url("images/sky2.jpg");
+}
+
+#ES-logo {
+	width: 98%;
+	margin: 20px 10px;
+}
+
+iframe {
+	width: 250px; 
+	height: 150px;
+	float: right;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+      width: 35%;
+      margin: auto;
+  }
+
+ .carousel-caption p {
+	 font-size: 20px;
+ }
+ 
+ .overall {
+	 margin: 10px 10px;
+ }
